@@ -30,7 +30,7 @@ Analyze customer data to identify patterns and factors associated with churn, de
 - **Data size:** dataset_telecom_customer_churn (7043, 43)
 - **Key columns:** Payment Method, Married, Gender, Contract, Number of Referrals, Total Revenue, Offer, Churn category, Churned
 - **Calculated columns:** churn%, age_range, senior_citizen, cltv
-- [**Data set Link**](https://github.com/amanat-mahmud/customer_churn_analysis/blob/main/dataset_telecom_customer_churn.csv)
+- [**Data set Link**](https://github.com/amanatMahmud123/Telecommunication-Churn-Analysis/blob/main/dataset_telecom_customer_churn.csv)
 
 ## 🔎 Key Findings
 - Churn rate: 26.54%
